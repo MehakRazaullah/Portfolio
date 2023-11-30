@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio website ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Checkout my Portfolio Website that represents all of my work ",
+    url: "https://mehaknizamani.my.canva.site/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Linkedin Profile ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Here is my Linkedin Profile, You can checkout all of my education, skills and other activities",
+    url: "https://www.linkedin.com/in/mehak-nizamani-18a914225/",
   },
   {
-    title: "My Resume Site",
+    title: "Behance Profile ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Checkout about my Behance profile to see my freelance work ",
+    url: "https://www.behance.net/mehakrazaullah",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Resume",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Here is my Resume where all my skills and educations are mentioned ",
+    url: "https://drive.google.com/file/d/1-_MsE7fhpoDx4ZX_iq7VmhSTVQ-d57WU/view?usp=sharing",
   },
 ];
 
